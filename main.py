@@ -18,6 +18,7 @@ def initialize() -> None:
     printMenu()
 
 # Prints the start menu
+# hello world!!
 def printMenu() -> None:
     for i in range(5):
         print(" - ")
